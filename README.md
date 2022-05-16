@@ -155,4 +155,4 @@ npm run serve
 
 👉[프로젝트 소개](./악수_소개.pdf)👈
 
-👉[프로젝트 영상 보기](https://youtu.be/yDOKTlCfik4)👈
+👉[프로젝트 영상 보기](https://youtu.be/qbOyOyLsYps)👈
