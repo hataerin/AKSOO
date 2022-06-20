@@ -1,6 +1,6 @@
 # 🤝🏻악수
 
-![image-20220620201837472](C:\Users\hotoron\AppData\Roaming\Typora\typora-user-images\image-20220620201837472.png)
+![image](https://user-images.githubusercontent.com/26705587/174594414-eb339f69-f3e0-430f-901f-2cf0aba95377.png)
 
 
 
